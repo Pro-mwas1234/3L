@@ -1,0 +1,72 @@
+/* Menu css */
+.topnav {
+	background-color: blueviolet;
+	overflow: hidden;
+	
+}
+.topnav a{
+	float: left;
+	display: block;
+	color:black;
+	text-align: center;
+	padding: 14px 33px;
+	text-decoration: none;
+	font-size: 17px;
+}
+.topnav a:hover {
+	background-color:#ddd;
+	color: black;
+}
+.active {
+	background-color: #4CAF50;
+	color: pink;
+}
+.topnav .icon {
+	display: none;
+}
+
+
+/* Menu css */
+.downnav {
+	background-color: blueviolet;
+	overflow: hidden;
+	
+}
+.size{
+	height: 100vh;
+}
+.downnav a{
+	float: left;
+	display: block;
+	color:black;
+	text-align: center;
+	padding: 14px 54px;
+	text-decoration: none;
+	font-size: 30px;
+}
+.downnav a:hover {
+	background-color:#ddd;
+	color: black;
+}
+.active {
+	background-color: #4CAF50;
+	color: pink;
+}
+.downnav .icon {
+	display: none;
+}
+.copyright {
+	width: 100%;
+	display: inline-block;
+	 background-color: #FFFFFF
+	}aside {
+		width: 20%;
+		float: center;
+		display: block;
+		min-height: 300px;
+		max-height:700px;
+		background-color:white;
+	}
+	P{
+		FONT-SIZE:20;
+	}

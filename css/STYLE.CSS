@@ -29,11 +29,7 @@
 /* Menu css */
 .downnav {
 	background-color: blueviolet;
-	overflow: hidden;
-	
-}
-.size{
-	height: 100vh;
+	overflow: hidden;	
 }
 .downnav a{
 	float: left;

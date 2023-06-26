@@ -11,7 +11,7 @@
 	text-align: center;
 	padding: 14px 33px;
 	text-decoration: none;
-	font-size: 17px;
+	font-size: 20px;
 }
 .topnav a:hover {
 	background-color:#ddd;
@@ -29,16 +29,19 @@
 /* Menu css */
 .downnav {
 	background-color: blueviolet;
-	overflow: hidden;	
+	overflow: hidden;
+	
 }
+
+
 .downnav a{
 	float: left;
 	display: block;
 	color:black;
 	text-align: center;
-	padding: 14px 54px;
+	padding: 14px 52px;
 	text-decoration: none;
-	font-size: 30px;
+	font-size: 28px;
 }
 .downnav a:hover {
 	background-color:#ddd;

@@ -1,0 +1,29 @@
+body{
+	background-color: aqua;
+}
+/* Menu css */
+.topnav {
+	background-color: burlywood;
+	overflow: hidden;
+	
+}
+.topnav a{
+	float: center;
+	display: block;
+	color:midnightblue;
+	text-align: center;
+	padding: 14px 33px;
+	text-decoration: none;
+	font-size: 20px;
+}
+.topnav a:hover {
+	background-color:greenyellow;
+	color: black;
+}
+.active {
+	background-color: royalblue;
+	color: pink;
+}
+.topnav .icon {
+	display: none;
+}
